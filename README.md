@@ -7,7 +7,7 @@ Time Period : 1983 - 2012
 
 ## Inference & Implications
  - Most Sold Genre is **Sports**
-   
+
 •	Most Sold Publisher is Electronic Arts
 
 •	Many games were sold in the Platform PS2
