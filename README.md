@@ -19,3 +19,5 @@ Time Period : 1983 - 2012
  - **Platform DS** holds the First Position in Japan, followed by NES and PS.
 
  - The most popular genre in all other countries is **Sports**, whereas in Japan it is **Role-Playing**. The Customer Base is Different in Japan.
+
+ - 
