@@ -1,9 +1,9 @@
 # Video-Games-Sales-Analysis
 
 ## Dataset
-1907 Rows and 13 Columns 
+- 1907 Rows and 13 Columns 
 
-Time Period : 1983 - 2012
+- Time Period : 1983 - 2012
 
 ## Inference & Implications
  - Most Sold Genre is **Sports**.
